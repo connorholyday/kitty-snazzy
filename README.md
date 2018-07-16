@@ -1,6 +1,6 @@
 # kitty-snazzy
 
-> Elegant kitty theme with bright colors. Based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy/) by [Sindre Sorhus](https://sindresorhus.com).
+> Elegant [kitty](https://github.com/kovidgoyal/kitty) theme with bright colors. Based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy/) by [Sindre Sorhus](https://sindresorhus.com).
 
 ![](screenshot.png)
 
@@ -9,7 +9,7 @@
 
 Download this file and place it alongside your kitty config file.
 ```
-$ curl -o ~/.config/kitty/ https://raw.githubusercontent.com/connorholyday/kitty-snazzy/master/kitty-snazzy.conf
+$ curl -o ~/.config/kitty/ https://raw.githubusercontent.com/connorholyday/kitty-snazzy/master/snazzy.conf
 ```
 
 Place this line at the bottom of your config file:
